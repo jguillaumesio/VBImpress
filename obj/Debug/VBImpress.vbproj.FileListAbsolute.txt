@@ -1,0 +1,12 @@
+C:\Users\HP portable\Downloads\tp4_menu-20200909T113511Z-001\tp4_menu\TD4_menu\bin\Debug\TD4_menu.exe.config
+C:\Users\HP portable\Downloads\tp4_menu-20200909T113511Z-001\tp4_menu\TD4_menu\bin\Debug\TD4_menu.exe
+C:\Users\HP portable\Downloads\tp4_menu-20200909T113511Z-001\tp4_menu\TD4_menu\bin\Debug\TD4_menu.pdb
+C:\Users\HP portable\Downloads\tp4_menu-20200909T113511Z-001\tp4_menu\TD4_menu\bin\Debug\TD4_menu.xml
+C:\Users\HP portable\Downloads\tp4_menu-20200909T113511Z-001\tp4_menu\TD4_menu\obj\Debug\TD4_menu.Form1.resources
+C:\Users\HP portable\Downloads\tp4_menu-20200909T113511Z-001\tp4_menu\TD4_menu\obj\Debug\TD4_menu.Form2.resources
+C:\Users\HP portable\Downloads\tp4_menu-20200909T113511Z-001\tp4_menu\TD4_menu\obj\Debug\TD4_menu.Resources.resources
+C:\Users\HP portable\Downloads\tp4_menu-20200909T113511Z-001\tp4_menu\TD4_menu\obj\Debug\VBImpress.vbproj.GenerateResource.cache
+C:\Users\HP portable\Downloads\tp4_menu-20200909T113511Z-001\tp4_menu\TD4_menu\obj\Debug\VBImpress.vbproj.CoreCompileInputs.cache
+C:\Users\HP portable\Downloads\tp4_menu-20200909T113511Z-001\tp4_menu\TD4_menu\obj\Debug\TD4_menu.exe
+C:\Users\HP portable\Downloads\tp4_menu-20200909T113511Z-001\tp4_menu\TD4_menu\obj\Debug\TD4_menu.xml
+C:\Users\HP portable\Downloads\tp4_menu-20200909T113511Z-001\tp4_menu\TD4_menu\obj\Debug\TD4_menu.pdb
